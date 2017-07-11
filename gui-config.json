@@ -1,0 +1,137 @@
+{
+  "configs": [
+    {
+      "server": "cn2.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "cn2.darkcloud.link",
+      "server_port": 7617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "cn3.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "hk1.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "sg1.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "hk3.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "hk4.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "jp2.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "jp1.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us1.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us2.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "kr1.darkcloud.link",
+      "server_port": 11617,
+      "password": "UVePsd8KPkx9",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 11,
+  "global": true,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
